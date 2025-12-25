@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Anoop_things | Video Editing Quotation</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body{
+  margin:0;
+  font-family: Arial, Helvetica, sans-serif;
+  background:#f4f6f8;
+  color:#222;
+}
+.container{
+  max-width:900px;
+  margin:40px auto;
+  background:#fff;
+  padding:30px;
+  border-radius:14px;
+  box-shadow:0 10px 30px rgba(0,0,0,0.08);
+}
+header{
+  text-align:center;
+  border-bottom:2px solid #eee;
+  padding-bottom:20px;
+}
+header h1{
+  margin:0;
+  font-size:32px;
+}
+header p{
+  color:#666;
+}
+
+.section{
+  margin-top:30px;
+}
+.section h2{
+  border-left:5px solid #2563eb;
+  padding-left:12px;
+  font-size:22px;
+}
+
+.price-box{
+  display:flex;
+  justify-content:space-between;
+  padding:14px;
+  margin:10px 0;
+  border-radius:10px;
+  background:#f9fafb;
+  border:1px solid #e5e7eb;
+}
+.price-box strong{
+  font-size:16px;
+}
+
+.contact, .payment{
+  background:#f9fafb;
+  padding:20px;
+  border-radius:12px;
+  border:1px solid #e5e7eb;
+}
+
+footer{
+  text-align:center;
+  margin-top:30px;
+  font-size:14px;
+  color:#666;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<header>
+  <h1>Anoop_things</h1>
+  <p>Professional Video Editor | Quotation & Pricing</p>
+</header>
+
+<div class="section">
+  <h2>🎬 Video Editing</h2>
+
+  <div class="price-box">
+    <span>Basic Long Video Edit</span>
+    <strong>₹900</strong>
+  </div>
+
+  <div class="price-box">
+    <span>Advance Long Video Edit</span>
+    <strong>₹1400</strong>
+  </div>
+
+  <div class="price-box">
+    <span>Cinematic Edit</span>
+    <strong>₹1200 – ₹2500</strong>
+  </div>
+</div>
+
+<div class="section">
+  <h2>📱 Reels / Shorts Editing</h2>
+
+  <div class="price-box">
+    <span>Basic Reel</span>
+    <strong>₹300</strong>
+  </div>
+
+  <div class="price-box">
+    <span>Advance Reel</span>
+    <strong>₹400 – ₹500</strong>
+  </div>
+</div>
+
+<div class="section">
+  <h2>📦 Monthly Packages</h2>
+
+  <div class="price-box">
+    <span>8 Long Videos (₹1100 per video)</span>
+    <strong>₹8800</strong>
+  </div>
+</div>
+
+<div class="section">
+  <h2>📞 Contact</h2>
+  <div class="contact">
+    <p><strong>Name:</strong> Anoop_things</p>
+    <p><strong>Phone:</strong> +91 9990435074</p>
+    <p><strong>Email:</strong> Kamleshchoudhary4801@gmail.com</p>
+  </div>
+</div>
+
+<div class="section">
+  <h2>💳 Payment Details</h2>
+  <div class="payment">
+    <p><strong>UPI:</strong> 9990435074@pthdfc</p>
+    <p><strong>Bank:</strong> Kotak Mahindra Bank</p>
+    <p><strong>Account No:</strong> 1147825570</p>
+    <p><strong>IFSC:</strong> KKBK0000196</p>
+  </div>
+</div>
+
+<footer>
+  © 2025 Anoop_things | Video Editing Services
+</footer>
+
+</div>
+
+</body>
+</html>
